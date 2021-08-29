@@ -1,0 +1,7 @@
+server:
+  port: 8083
+
+spring:
+  kafka:
+    listener:
+      idle-event-interval: 5000
